@@ -4,7 +4,7 @@ This repository contains the source code for the paper _Ancient Greek's New Tech
 
 Dataset available at HuggingFace: https://huggingface.co/datasets/ronunes/anacreontea
 
-Topos and their definitions available at GitHub: https://github.com/RafaelOleques/anacreontea/blob/main/topos.csv
+Topos and their definitions are available at GitHub: https://github.com/RafaelOleques/anacreontea/blob/main/topos.csv
 
 Once the paper is available online, a link will be provided here.
 
